@@ -63,3 +63,4 @@ C:\Users\user\Desktop\SchoolAnalyticsAPI\obj\Debug\net10.0\refint\SchoolAnalytic
 C:\Users\user\Desktop\SchoolAnalyticsAPI\obj\Debug\net10.0\SchoolAnalyticsAPI.pdb
 C:\Users\user\Desktop\SchoolAnalyticsAPI\obj\Debug\net10.0\SchoolAnalyticsAPI.genruntimeconfig.cache
 C:\Users\user\Desktop\SchoolAnalyticsAPI\obj\Debug\net10.0\ref\SchoolAnalyticsAPI.dll
+C:\Users\user\Desktop\SchoolAnalyticsAPI\obj\Debug\net10.0\SchoolAnalyticsAPI.sourcelink.json
