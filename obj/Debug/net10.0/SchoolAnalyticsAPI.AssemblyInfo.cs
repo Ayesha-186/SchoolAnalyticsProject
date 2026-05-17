@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolAnalyticsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2556f8f5acac675bc24636068bb5b165cdd5e67")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0cb983361d96cf0de3d5dd413ddba4d5c85277f")]
+>>>>>>> c1365921f782888b8a376223969e074439d2b6d1
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolAnalyticsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolAnalyticsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
